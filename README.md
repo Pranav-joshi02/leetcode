@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranav-joshi02/leetcode/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Depth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
