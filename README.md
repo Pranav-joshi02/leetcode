@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/Pranav-joshi02/leetcode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
