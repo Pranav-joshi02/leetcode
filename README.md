@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Pranav-joshi02/leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Pranav-joshi02/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Pranav-joshi02/leetcode/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Pranav-joshi02/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## String
 |  |
 | ------- |
