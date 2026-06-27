@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pranav-joshi02/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pranav-joshi02/leetcode/tree/master/0027-remove-element) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranav-joshi02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Pranav-joshi02/leetcode/tree/master/0184-department-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/Pranav-joshi02/leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Pranav-joshi02/leetcode/tree/master/0577-employee-bonus) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranav-joshi02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
