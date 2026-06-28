@@ -19,7 +19,7 @@ class Solution {
     public int rob(int[] nums) {
         dp = new int[nums.length];
         Arrays.fill(dp, -1);
-        System.gc();
+        
         return solve(nums, nums.length - 1);
         
     }
