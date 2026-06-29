@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranav-joshi02/leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Pranav-joshi02/leetcode/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0337-house-robber-iii) |
 ## Hash Table
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
