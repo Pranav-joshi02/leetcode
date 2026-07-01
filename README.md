@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pranav-joshi02/leetcode/tree/master/0027-remove-element) |
 | [0198-house-robber](https://github.com/Pranav-joshi02/leetcode/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
+| [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranav-joshi02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-joshi02/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Pranav-joshi02/leetcode/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0337-house-robber-iii) |
+| [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 ## Hash Table
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
+| [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Binary Search
 |  |
