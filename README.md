@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Pranav-joshi02/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/Pranav-joshi02/leetcode/tree/master/1045-customers-who-bought-all-products) |
+| [1068-product-sales-analysis-i](https://github.com/Pranav-joshi02/leetcode/tree/master/1068-product-sales-analysis-i) |
 ## String
 |  |
 | ------- |
