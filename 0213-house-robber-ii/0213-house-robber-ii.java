@@ -25,7 +25,7 @@ class Solution {
         Arrays.fill(dp,-1);
         int case1=yeaa(0,nums.length-2);
         //from second to last
-        dp= new int[nums.length];
+        
         Arrays.fill(dp,-1);
         int case2=yeaa(1,nums.length-1);
         return Math.max(case1,case2);
