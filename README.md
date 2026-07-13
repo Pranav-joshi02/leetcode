@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Pranav-joshi02/leetcode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/Pranav-joshi02/leetcode/tree/master/0343-integer-break) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Pranav-joshi02/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Pranav-joshi02/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Pranav-joshi02/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Pranav-joshi02/leetcode/tree/master/0343-integer-break) |
 | [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
