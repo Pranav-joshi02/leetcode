@@ -13,7 +13,7 @@ class Solution {
             min = Math.min(num,min);
             max = Math.max(num,max);
         }
-        System.gc();
+       
         return gcd( min , max);
     }
 }
