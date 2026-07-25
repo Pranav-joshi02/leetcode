@@ -1,19 +1,21 @@
 class Solution {
     public int maxProduct(int n) {
-        int temp=n;
-        int count=0;
-        while(temp>0){
-            temp /= 10;
-            count++;
-        }
-        int[] arr = new int[count+1];
-        int i=0;
+       
+        int biggest=0;
+        int bigger=0;
+
         while(n>0){
-            arr[i]=n%10;
-            n /= 10;
-            i++;
+            int digit=n%10;
+
+            if(digit > biggest){
+                bigger = biggest;
+                biggest = digit;
+            }else if (digit > bigger){
+                bigger = digit;
+            }
+             n /= 10;
         }
-        Arrays.sort(arr);
-        return arr[arr.length-1] * arr[arr.length-2];
+
+        return biggest * bigger;
     }
 }
