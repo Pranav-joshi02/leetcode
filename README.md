@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1207-unique-number-of-occurrences](https://github.com/Pranav-joshi02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pranav-joshi02/leetcode/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranav-joshi02/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranav-joshi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
