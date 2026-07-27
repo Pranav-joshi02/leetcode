@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Pranav-joshi02/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Pranav-joshi02/leetcode/tree/master/0041-first-missing-positive) |
 | [0134-gas-station](https://github.com/Pranav-joshi02/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Pranav-joshi02/leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Pranav-joshi02/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Pranav-joshi02/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pranav-joshi02/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pranav-joshi02/leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Pranav-joshi02/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Pranav-joshi02/leetcode/tree/master/0135-candy) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Tree
 |  |
