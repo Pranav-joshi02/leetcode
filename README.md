@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranav-joshi02/leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Pranav-joshi02/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Pranav-joshi02/leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Pranav-joshi02/leetcode/tree/master/0343-integer-break) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Pranav-joshi02/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Pranav-joshi02/leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/Pranav-joshi02/leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Pranav-joshi02/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Pranav-joshi02/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Pranav-joshi02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pranav-joshi02/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Pranav-joshi02/leetcode/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Pranav-joshi02/leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Pranav-joshi02/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
