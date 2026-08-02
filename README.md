@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pranav-joshi02/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranav-joshi02/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranav-joshi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1207-unique-number-of-occurrences](https://github.com/Pranav-joshi02/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Pranav-joshi02/leetcode/tree/master/0486-predict-the-winner) |
 | [0740-delete-and-earn](https://github.com/Pranav-joshi02/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -235,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pranav-joshi02/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
