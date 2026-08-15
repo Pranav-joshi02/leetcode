@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1147.3329999999999 2689.7070000000003" width="1147.3329999999999" height="2689.7070000000003" style="--bg:#1F1F1F;--fg:#CCCCCC;--line:#CCCCCC;--accent:#0078D4;--muted:#CCCCCCCC;--surface:#181818;--border:#CCCCCC;background:var(--bg)">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap');
+  text { font-family: 'Inter', system-ui, sans-serif; }
+  svg {
+    /* Derived from --bg and --fg (overridable via --line, --accent, etc.) */
+    --_text:          var(--fg);
+    --_text-sec:      var(--muted, color-mix(in srgb, var(--fg) 60%, var(--bg)));
+    --_text-muted:    var(--muted, color-mix(in srgb, var(--fg) 40%, var(--bg)));
+    --_text-faint:    color-mix(in srgb, var(--fg) 25%, var(--bg));
+    --_line:          var(--line, color-mix(in srgb, var(--fg) 50%, var(--bg)));
+    --_arrow:         var(--accent, color-mix(in srgb, var(--fg) 85%, var(--bg)));
+    --_node-fill:     var(--surface, color-mix(in srgb, var(--fg) 3%, var(--bg)));
+    --_node-stroke:   var(--border, color-mix(in srgb, var(--fg) 20%, var(--bg)));
+    --_group-fill:    var(--bg);
+    --_group-hdr:     color-mix(in srgb, var(--fg) 5%, var(--bg));
+    --_inner-stroke:  color-mix(in srgb, var(--fg) 12%, var(--bg));
+    --_key-badge:     color-mix(in srgb, var(--fg) 10%, var(--bg));
+  }
+</style>
+<defs>
+  <marker id="arrowhead" markerWidth="8" markerHeight="5" refX="7" refY="2.5" orient="auto">
+    <polygon points="0 0, 8 2.5, 0 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+  <marker id="arrowhead-start" markerWidth="8" markerHeight="5" refX="1" refY="2.5" orient="auto-start-reverse">
+    <polygon points="8 0, 0 2.5, 8 5" fill="var(--_arrow)" stroke="var(--_arrow)" stroke-width="0.75" stroke-linejoin="round" />
+  </marker>
+</defs>
+<g class="subgraph" data-id="S1" data-label="Stage 1: Camera Trap &amp; Ingestion">
+  <rect x="142.554" y="40.000000000000455" width="446.96899999999994" height="331.40000000000003" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="142.554" y="40.000000000000455" width="446.96899999999994" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="154.554" y="54.000000000000455" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 1: Camera Trap &amp; Ingestion</text>
+</g>
+<g class="subgraph" data-id="S2" data-label="Stage 2: AI Triage &amp; Quarantine Gate">
+  <rect x="247.183" y="431.4000000000005" width="518.8459999999999" height="297.90000000000003" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="247.183" y="431.4000000000005" width="518.8459999999999" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="259.183" y="445.4000000000005" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 2: AI Triage &amp; Quarantine Gate</text>
+</g>
+<g class="subgraph" data-id="S3" data-label="Stage 3: Flank Cropping &amp; Re-ID Embeddings">
+  <rect x="385.89799999999997" y="789.3000000000005" width="509.95399999999995" height="229.60000000000002" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="385.89799999999997" y="789.3000000000005" width="509.95399999999995" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="397.89799999999997" y="803.3000000000005" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 3: Flank Cropping &amp; Re-ID Embeddings</text>
+</g>
+<g class="subgraph" data-id="S4" data-label="Stage 4: Vector Similarity Search (pgvector)">
+  <rect x="603.6775" y="1078.9000000000005" width="276.243" height="229.60000000000002" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="603.6775" y="1078.9000000000005" width="276.243" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="615.6775" y="1092.9000000000005" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 4: Vector Similarity Search (pgvector)</text>
+</g>
+<g class="subgraph" data-id="S5" data-label="Stage 5: Human-in-the-Loop &amp; Decision Engine (CURRENT STAGE)">
+  <rect x="238.32699999999994" y="1368.5000000000005" width="869.0059999999999" height="580.407" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="238.32699999999994" y="1368.5000000000005" width="869.0059999999999" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="250.32699999999994" y="1382.5000000000005" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 5: Human-in-the-Loop &amp; Decision Engine (CURRENT STAGE)</text>
+</g>
+<g class="subgraph" data-id="S6" data-label="Stage 6: Persistence &amp; Spatial Analytics (PostGIS)">
+  <rect x="382.3999999999999" y="2008.9070000000006" width="590.608" height="229.60000000000002" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="382.3999999999999" y="2008.9070000000006" width="590.608" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="394.3999999999999" y="2022.9070000000006" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 6: Persistence &amp; Spatial Analytics (PostGIS)</text>
+</g>
+<g class="subgraph" data-id="S7" data-label="Stage 7: Interactive Dashboard &amp; Review UI (CURRENT STAGE)">
+  <rect x="253.97999999999996" y="2298.5070000000005" width="288.84" height="351.20000000000005" rx="0" ry="0" fill="var(--_group-fill)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <rect x="253.97999999999996" y="2298.5070000000005" width="288.84" height="28" rx="0" ry="0" fill="var(--_group-hdr)" stroke="var(--_node-stroke)" stroke-width="1" />
+  <text x="265.97999999999996" y="2312.5070000000005" font-size="12" font-weight="600" fill="var(--_text-sec)" dy="4.199999999999999">Stage 7: Interactive Dashboard &amp; Review UI (CURRENT STAGE)</text>
+</g>
+<polyline class="edge" data-from="S3RAW" data-to="MD" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="486.599,355.4000000000005 486.599,475.4000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="QFILTER" data-to="FLANK" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="615.3104999999999,702.8000000000005 615.3104999999999,833.3000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="REID" data-to="PGV" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="741.799,992.4000000000005 741.799,1122.9000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="TOPK" data-to="EVAL" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="741.799,1292.5000000000005 741.799,1412.5000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="AUTO" data-to="DB" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="360.51699999999994,1779.7070000000003 360.51699999999994,1992.9070000000006 551.1579999999999,1992.9070000000006 551.1579999999999,2052.9070000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="CONFIRMED" data-to="DB" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="489.9334999999999,1932.9070000000006 489.9334999999999,1992.9070000000006 551.1579999999999,1992.9070000000006 551.1579999999999,2052.9070000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="ENROLLED" data-to="DB" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="741.7989999999999,1932.9070000000006 741.7989999999999,1992.9070000000006 551.1579999999999,1992.9070000000006 551.1579999999999,2052.9070000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="DB" data-to="API" data-style="solid" data-arrow-start="true" data-arrow-end="true" points="551.1579999999999,2120.707000000001 551.1579999999999,2144.707000000001 398.4,2144.707000000001 398.4,2342.5070000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" marker-start="url(#arrowhead-start)" />
+<polyline class="edge" data-from="CT" data-to="UPL" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="375.8567499999999,137.80000000000047 375.8567499999999,185.80000000000047" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="UPL" data-to="S3RAW" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="375.85675,239.60000000000048 375.85675,263.6000000000005 486.59899999999993,263.6000000000005 486.59899999999993,287.6000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="UPL" data-to="EXIF" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="375.85675,239.60000000000048 375.85675,263.6000000000005 265.11449999999996,263.6000000000005 265.11449999999996,287.6000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="MD" data-to="QUAR" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Blank / Non-Wildlife &gt;60%" points="441.81633333333326,529.2000000000005 441.81633333333326,541.2000000000005 357.8875,541.2000000000005 357.8875,649.0000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="MD" data-to="QFILTER" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Wildlife / Tiger Confirmed" points="531.3816666666667,529.2000000000005 531.3816666666667,541.2000000000005 615.3104999999999,541.2000000000005 615.3104999999999,649.0000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="FLANK" data-to="CROP" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="615.3105,887.1000000000005 615.3105,912.8500000000006 488.822,912.8500000000006 488.822,938.6000000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="FLANK" data-to="REID" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="615.3105,887.1000000000005 615.3105,912.8500000000006 741.799,912.8500000000006 741.799,938.6000000000006" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="PGV" data-to="TOPK" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="741.799,1190.7000000000005 741.799,1238.7000000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="EVAL" data-to="AUTO" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Sim ≥ 92%" points="692.52225,1560.3302500000004 692.52225,1621.6070000000004 360.51699999999994,1621.6070000000004 360.51699999999994,1725.9070000000004" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="EVAL" data-to="REVQUEUE" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="70% ≤ Sim &lt; 92%" points="741.799,1609.6070000000004 741.7989999999999,1725.9070000000004" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="EVAL" data-to="NEWIND" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Sim &lt; 70% or Novel" points="791.07575,1560.3302500000004 791.07575,1621.6070000000004 983.6609999999998,1621.6070000000004 983.6609999999998,1725.9070000000004" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="REVQUEUE" data-to="CONFIRMED" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Accept Match" points="688.704,1779.7070000000003 688.704,1791.7070000000003 489.9334999999999,1791.7070000000003 489.9334999999999,1896.0070000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="REVQUEUE" data-to="ENROLLED" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Enroll New" points="741.7989999999999,1779.7070000000003 741.7989999999999,1896.0070000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="REVQUEUE" data-to="REJ" data-style="solid" data-arrow-start="false" data-arrow-end="true" data-label="Reject" points="794.894,1779.7070000000003 794.894,1791.7070000000003 978.1034999999999,1791.7070000000003 978.1034999999999,1896.0070000000005" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="DB" data-to="SPATIAL" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="551.1579999999999,2120.707000000001 551.1579999999999,2144.707000000001 551.1579999999999,2144.707000000001 551.1579999999999,2168.707000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="DB" data-to="STATS" data-style="solid" data-arrow-start="false" data-arrow-end="true" points="551.1579999999999,2120.707000000001 551.1579999999999,2144.707000000001 838.9619999999999,2144.707000000001 838.9619999999999,2168.707000000001" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" />
+<polyline class="edge" data-from="API" data-to="NGINX" data-style="solid" data-arrow-start="true" data-arrow-end="true" points="398.4,2396.3070000000007 398.4,2444.3070000000007" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" marker-start="url(#arrowhead-start)" />
+<polyline class="edge" data-from="NGINX" data-to="UI" data-style="solid" data-arrow-start="true" data-arrow-end="true" points="398.4,2481.2070000000003 398.4,2529.2070000000003" fill="none" stroke="var(--_line)" stroke-width="1" marker-end="url(#arrowhead)" marker-start="url(#arrowhead-start)" />
+<g class="edge-label" data-from="MD" data-to="QUAR" data-label="Blank / Non-Wildlife &gt;60%">
+  <rect x="291.38749999999993" y="572.2000000000005" width="132.88600000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="357.8305" y="587.3500000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Blank / Non-Wildlife &gt;60%</text>
+</g>
+<g class="edge-label" data-from="MD" data-to="QFILTER" data-label="Wildlife / Tiger Confirmed">
+  <rect x="548.8105" y="572.2000000000005" width="132.29200000000003" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="614.9565" y="587.3500000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Wildlife / Tiger Confirmed</text>
+</g>
+<g class="edge-label" data-from="EVAL" data-to="AUTO" data-label="Sim ≥ 92%">
+  <rect x="329.0169999999999" y="1652.6070000000004" width="62.794" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="360.4139999999999" y="1667.7570000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Sim ≥ 92%</text>
+</g>
+<g class="edge-label" data-from="EVAL" data-to="REVQUEUE" data-label="70% ≤ Sim &lt; 92%">
+  <rect x="695.7989999999999" y="1652.6070000000004" width="91.30600000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="741.4519999999999" y="1667.7570000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">70% ≤ Sim &lt; 92%</text>
+</g>
+<g class="edge-label" data-from="EVAL" data-to="NEWIND" data-label="Sim &lt; 70% or Novel">
+  <rect x="931.1609999999997" y="1652.6070000000004" width="104.37400000000001" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="983.3479999999997" y="1667.7570000000005" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Sim &lt; 70% or Novel</text>
+</g>
+<g class="edge-label" data-from="REVQUEUE" data-to="CONFIRMED" data-label="Accept Match">
+  <rect x="448.9334999999999" y="1822.7070000000003" width="81.80200000000002" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="489.83449999999993" y="1837.8570000000004" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Accept Match</text>
+</g>
+<g class="edge-label" data-from="REVQUEUE" data-to="ENROLLED" data-label="Enroll New">
+  <rect x="707.2989999999999" y="1822.7070000000003" width="68.14" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="741.3689999999999" y="1837.8570000000004" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Enroll New</text>
+</g>
+<g class="edge-label" data-from="REVQUEUE" data-to="REJ" data-label="Reject">
+  <rect x="954.1034999999999" y="1822.7070000000003" width="47.35" height="30.3" rx="2" ry="2" fill="var(--bg)" stroke="var(--_inner-stroke)" stroke-width="1" />
+  <text x="977.7784999999999" y="1837.8570000000004" text-anchor="middle" font-size="11" font-weight="400" fill="var(--_text-sec)" dy="3.8499999999999996">Reject</text>
+</g>
+<g class="node" data-id="class" data-label="class" data-shape="rectangle">
+  <rect x="40" y="40" width="74.554" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="77.277" y="58.45" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">class</text>
+</g>
+<g class="node" data-id="CT" data-label="📸 Camera Trap Network
+(40+ Stations in Core &amp; Buffer)" data-shape="rectangle">
+  <rect x="269.29625" y="84.00000000000045" width="213.12099999999998" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="375.85675" y="110.90000000000046" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="375.85675" dy="-3.9000000000000012">📸 Camera Trap Network</tspan><tspan x="375.85675" dy="16.900000000000002">(40+ Stations in Core &amp; Buffer)</tspan></text>
+</g>
+<g class="node" data-id="UPL" data-label="📥 Ingestion Gateway / Live Upload
+(/live/capture &amp; /runs)" data-shape="rectangle">
+  <rect x="254.10575" y="185.80000000000047" width="243.50199999999995" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="375.85675" y="212.70000000000047" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="375.85675" dy="-3.9000000000000012">📥 Ingestion Gateway / Live Upload</tspan><tspan x="375.85675" dy="16.900000000000002">(/live/capture &amp; /runs)</tspan></text>
+</g>
+<g class="node" data-id="S3RAW" data-label="🪣 MinIO Object Storage
+raw-images bucket" data-shape="cylinder">
+  <rect x="399.67499999999995" y="294.6000000000005" width="173.848" height="53.80000000000001" fill="var(--_node-fill)" stroke="none" />
+  <line x1="399.67499999999995" y1="294.6000000000005" x2="399.67499999999995" y2="348.4000000000005" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <line x1="573.5229999999999" y1="294.6000000000005" x2="573.5229999999999" y2="348.4000000000005" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="486.59899999999993" cy="348.4000000000005" rx="86.924" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="486.59899999999993" cy="294.6000000000005" rx="86.924" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="486.59899999999993" y="321.50000000000045" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="486.59899999999993" dy="-3.9000000000000012">🪣 MinIO Object Storage</tspan><tspan x="486.59899999999993" dy="16.900000000000002">raw-images bucket</tspan></text>
+</g>
+<g class="node" data-id="EXIF" data-label="🕒 Metadata &amp; EXIF Extractor
+(GPS, Timestamp, Station ID)" data-shape="rectangle">
+  <rect x="158.554" y="287.6000000000005" width="213.12099999999995" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="265.11449999999996" y="314.50000000000045" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="265.11449999999996" dy="-3.9000000000000012">🕒 Metadata &amp; EXIF Extractor</tspan><tspan x="265.11449999999996" dy="16.900000000000002">(GPS, Timestamp, Station ID)</tspan></text>
+</g>
+<g class="node" data-id="MD" data-label="🤖 MegaDetector / YOLOv8 Triage
+(Animal vs Blank vs Vehicle vs Ranger)" data-shape="rectangle">
+  <rect x="352.251" y="475.4000000000005" width="268.69599999999997" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="486.59899999999993" y="502.30000000000047" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="486.59899999999993" dy="-3.9000000000000012">🤖 MegaDetector / YOLOv8 Triage</tspan><tspan x="486.59899999999993" dy="16.900000000000002">(Animal vs Blank vs Vehicle vs Ranger)</tspan></text>
+</g>
+<g class="node" data-id="QUAR" data-label="🚫 Quarantine Storage
+(345+ GB Storage Saved)" data-shape="cylinder">
+  <rect x="263.183" y="656.0000000000005" width="189.40899999999996" height="53.80000000000001" fill="var(--_node-fill)" stroke="none" />
+  <line x1="263.183" y1="656.0000000000005" x2="263.183" y2="709.8000000000004" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <line x1="452.592" y1="656.0000000000005" x2="452.592" y2="709.8000000000004" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="357.8875" cy="709.8000000000004" rx="94.70449999999998" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="357.8875" cy="656.0000000000005" rx="94.70449999999998" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="357.8875" y="682.9000000000004" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="357.8875" dy="-3.9000000000000012">🚫 Quarantine Storage</tspan><tspan x="357.8875" dy="16.900000000000002">(345+ GB Storage Saved)</tspan></text>
+</g>
+<g class="node" data-id="QFILTER" data-label="🔍 Image Quality &amp; Lighting Assessment
+(Blur, Exposure, Occlusion Score)" data-shape="rectangle">
+  <rect x="480.5919999999999" y="649.0000000000005" width="269.43699999999995" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="615.3104999999999" y="675.9000000000004" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="615.3104999999999" dy="-3.9000000000000012">🔍 Image Quality &amp; Lighting Assessment</tspan><tspan x="615.3104999999999" dy="16.900000000000002">(Blur, Exposure, Occlusion Score)</tspan></text>
+</g>
+<g class="node" data-id="FLANK" data-label="🐯 YOLO Flank Detector &amp; Segmentor
+(Left vs Right Flank Segmentation)" data-shape="rectangle">
+  <rect x="485.779" y="833.3000000000005" width="259.063" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="615.3105" y="860.2000000000005" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="615.3105" dy="-3.9000000000000012">🐯 YOLO Flank Detector &amp; Segmentor</tspan><tspan x="615.3105" dy="16.900000000000002">(Left vs Right Flank Segmentation)</tspan></text>
+</g>
+<g class="node" data-id="CROP" data-label="🪣 MinIO Object Storage
+flanks &amp; crops bucket" data-shape="cylinder">
+  <rect x="401.89799999999997" y="945.6000000000006" width="173.848" height="53.80000000000001" fill="var(--_node-fill)" stroke="none" />
+  <line x1="401.89799999999997" y1="945.6000000000006" x2="401.89799999999997" y2="999.4000000000005" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <line x1="575.746" y1="945.6000000000006" x2="575.746" y2="999.4000000000005" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="488.822" cy="999.4000000000005" rx="86.924" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="488.822" cy="945.6000000000006" rx="86.924" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="488.822" y="972.5000000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="488.822" dy="-3.9000000000000012">🪣 MinIO Object Storage</tspan><tspan x="488.822" dy="16.900000000000002">flanks &amp; crops bucket</tspan></text>
+</g>
+<g class="node" data-id="REID" data-label="🧠 Deep Feature Extractor / Stripe Re-ID
+(512-dim Vector Embedding Generator)" data-shape="rectangle">
+  <rect x="603.746" y="938.6000000000006" width="276.10599999999994" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="741.799" y="965.5000000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="741.799" dy="-3.9000000000000012">🧠 Deep Feature Extractor / Stripe Re-ID</tspan><tspan x="741.799" dy="16.900000000000002">(512-dim Vector Embedding Generator)</tspan></text>
+</g>
+<g class="node" data-id="PGV" data-label="🐘 PostgreSQL 16 + pgvector
+(Cosine / L2 Prototype Index)" data-shape="cylinder">
+  <rect x="636.35" y="1129.9000000000005" width="210.898" height="53.80000000000001" fill="var(--_node-fill)" stroke="none" />
+  <line x1="636.35" y1="1129.9000000000005" x2="636.35" y2="1183.7000000000005" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <line x1="847.248" y1="1129.9000000000005" x2="847.248" y2="1183.7000000000005" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="741.799" cy="1183.7000000000005" rx="105.449" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="741.799" cy="1129.9000000000005" rx="105.449" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="741.799" y="1156.8000000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="741.799" dy="-3.9000000000000012">🐘 PostgreSQL 16 + pgvector</tspan><tspan x="741.799" dy="16.900000000000002">(Cosine / L2 Prototype Index)</tspan></text>
+</g>
+<g class="node" data-id="TOPK" data-label="📊 Ranked Similarity Matcher
+(Top-3 Database Matches Ranked)" data-shape="rectangle">
+  <rect x="619.6775" y="1238.7000000000005" width="244.243" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="741.799" y="1265.6000000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="741.799" dy="-3.9000000000000012">📊 Ranked Similarity Matcher</tspan><tspan x="741.799" dy="16.900000000000002">(Top-3 Database Matches Ranked)</tspan></text>
+</g>
+<g class="node" data-id="EVAL" data-label="Confidence Threshold" data-shape="diamond">
+  <polygon points="741.799,1412.5000000000005 840.3525,1511.0535000000004 741.799,1609.6070000000004 643.2455,1511.0535000000004" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="741.799" y="1511.0535000000004" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">Confidence Threshold</text>
+</g>
+<g class="node" data-id="AUTO" data-label="⚡ Auto-Matched
+(Automated Sighting Scribing)" data-shape="rectangle">
+  <rect x="254.32699999999994" y="1725.9070000000004" width="212.37999999999997" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="360.51699999999994" y="1752.8070000000005" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="360.51699999999994" dy="-3.9000000000000012">⚡ Auto-Matched</tspan><tspan x="360.51699999999994" dy="16.900000000000002">(Automated Sighting Scribing)</tspan></text>
+</g>
+<g class="node" data-id="REVQUEUE" data-label="🛡️ Human Review Queue
+(Side-by-Side Comparison UI)" data-shape="rectangle">
+  <rect x="635.6089999999999" y="1725.9070000000004" width="212.37999999999994" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="741.7989999999999" y="1752.8070000000005" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="741.7989999999999" dy="-3.9000000000000012">🛡️ Human Review Queue</tspan><tspan x="741.7989999999999" dy="16.900000000000002">(Side-by-Side Comparison UI)</tspan></text>
+</g>
+<g class="node" data-id="NEWIND" data-label="✨ Novel Individual Candidate
+(Auto-Suggest Next ID: T046+)" data-shape="rectangle">
+  <rect x="875.9889999999998" y="1725.9070000000004" width="215.344" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="983.6609999999998" y="1752.8070000000005" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="983.6609999999998" dy="-3.9000000000000012">✨ Novel Individual Candidate</tspan><tspan x="983.6609999999998" dy="16.900000000000002">(Auto-Suggest Next ID: T046+)</tspan></text>
+</g>
+<g class="node" data-id="CONFIRMED" data-label="✅ Confirmed Observation Linked" data-shape="rectangle">
+  <rect x="371.51699999999994" y="1896.0070000000005" width="236.83299999999997" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="489.9334999999999" y="1914.4570000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">✅ Confirmed Observation Linked</text>
+</g>
+<g class="node" data-id="ENROLLED" data-label="🐯 Brand New Tiger Enrolled" data-shape="rectangle">
+  <rect x="636.3499999999999" y="1896.0070000000005" width="210.89799999999997" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="741.7989999999999" y="1914.4570000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">🐯 Brand New Tiger Enrolled</text>
+</g>
+<g class="node" data-id="REJ" data-label="❌ False Positive Dismissed" data-shape="rectangle">
+  <rect x="875.2479999999998" y="1896.0070000000005" width="205.71099999999996" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="978.1034999999998" y="1914.4570000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">❌ False Positive Dismissed</text>
+</g>
+<g class="node" data-id="DB" data-label="🐘 PostgreSQL / PostGIS Database
+tigers, observations, stations, encounters" data-shape="cylinder">
+  <rect x="409.02949999999987" y="2059.9070000000006" width="284.25699999999995" height="53.80000000000001" fill="var(--_node-fill)" stroke="none" />
+  <line x1="409.02949999999987" y1="2059.9070000000006" x2="409.02949999999987" y2="2113.707000000001" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <line x1="693.2864999999998" y1="2059.9070000000006" x2="693.2864999999998" y2="2113.707000000001" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="551.1579999999999" cy="2113.707000000001" rx="142.12849999999997" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <ellipse cx="551.1579999999999" cy="2059.9070000000006" rx="142.12849999999997" ry="7" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="551.1579999999999" y="2086.8070000000007" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="551.1579999999999" dy="-3.9000000000000012">🐘 PostgreSQL / PostGIS Database</tspan><tspan x="551.1579999999999" dy="16.900000000000002">tigers, observations, stations, encounters</tspan></text>
+</g>
+<g class="node" data-id="SPATIAL" data-label="🗺️ Spatial Engine &amp; Movement Corridors
+(Core vs Buffer Zone Transits)" data-shape="rectangle">
+  <rect x="409.3999999999999" y="2168.707000000001" width="283.51599999999996" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="551.1579999999999" y="2195.607000000001" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="551.1579999999999" dy="-3.9000000000000012">🗺️ Spatial Engine &amp; Movement Corridors</tspan><tspan x="551.1579999999999" dy="16.900000000000002">(Core vs Buffer Zone Transits)</tspan></text>
+</g>
+<g class="node" data-id="STATS" data-label="📈 Population &amp; Census Analytics" data-shape="rectangle">
+  <rect x="720.9159999999999" y="2168.707000000001" width="236.09199999999996" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="838.9619999999999" y="2187.1570000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">📈 Population &amp; Census Analytics</text>
+</g>
+<g class="node" data-id="API" data-label="⚡ FastAPI Async REST Service
+(:8000 &amp; /api reverse proxy)" data-shape="rectangle">
+  <rect x="281.09499999999997" y="2342.5070000000005" width="234.60999999999999" height="53.800000000000004" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="398.4" y="2369.4070000000006" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="398.4" dy="-3.9000000000000012">⚡ FastAPI Async REST Service</tspan><tspan x="398.4" dy="16.900000000000002">(:8000 &amp; /api reverse proxy)</tspan></text>
+</g>
+<g class="node" data-id="NGINX" data-label="🌐 Nginx Web Proxy (:3000)" data-shape="rectangle">
+  <rect x="297.02649999999994" y="2444.3070000000007" width="202.74699999999996" height="36.900000000000006" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="398.3999999999999" y="2462.7570000000005" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)" dy="4.55">🌐 Nginx Web Proxy (:3000)</text>
+</g>
+<g class="node" data-id="UI" data-label="💻 React + Vite + Tailwind Dashboard
+- Review Queue Side-by-Side
+- Live Camera Capture &amp; Triage
+- Tiger Individual Catalogue
+- GPS Reserve Territory Map" data-shape="rectangle">
+  <rect x="269.97999999999996" y="2529.2070000000003" width="256.84" height="104.50000000000001" rx="0" ry="0" fill="var(--_node-fill)" stroke="var(--_node-stroke)" stroke-width="0.75" />
+  <text x="398.4" y="2581.4570000000003" text-anchor="middle" font-size="13" font-weight="500" fill="var(--_text)"><tspan x="398.4" dy="-29.250000000000004">💻 React + Vite + Tailwind Dashboard</tspan><tspan x="398.4" dy="16.900000000000002">- Review Queue Side-by-Side</tspan><tspan x="398.4" dy="16.900000000000002">- Live Camera Capture &amp; Triage</tspan><tspan x="398.4" dy="16.900000000000002">- Tiger Individual Catalogue</tspan><tspan x="398.4" dy="16.900000000000002">- GPS Reserve Territory Map</tspan></text>
+</g>
+</svg>
