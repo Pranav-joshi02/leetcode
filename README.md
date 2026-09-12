@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Pranav-joshi02/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pranav-joshi02/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/Pranav-joshi02/leetcode/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pranav-joshi02/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Pranav-joshi02/leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
