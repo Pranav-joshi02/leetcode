@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranav-joshi02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-joshi02/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2140-solving-questions-with-brainpower](https://github.com/Pranav-joshi02/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Pranav-joshi02/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1406-stone-game-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/1406-stone-game-iii) |
+| [2140-solving-questions-with-brainpower](https://github.com/Pranav-joshi02/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
