@@ -1,33 +1,30 @@
 class Solution {
-    int[] nums;
-    HashMap<String, Integer> dp;
-
-    private int sum(int i, int target) {
-
-        if (i == nums.length) {
-            return target == 0 ? 1 : 0;
-        }
-
-        String key = i + "," + target;
-
-        if (dp.containsKey(key)) {
-            return dp.get(key);
-        }
-
-        int pos = sum(i + 1, target - nums[i]);
-        int neg = sum(i + 1, target + nums[i]);
-
-        int ans = pos + neg;
-
-        dp.put(key, ans);
-
-        return ans;
-    }
-
     public int findTargetSumWays(int[] nums, int target) {
-        this.nums = nums;
-        dp = new HashMap<>();
+        int n = nums.length;
+        int sum = 0;
 
-        return sum(0, target);
+        // dp[sum][index] = number of ways to make target from current sum at index i
+        this.nums=nums;
+         dp = new int[nums.length][2001];
+        for(int i=0; i<nums.length; i++){
+            Arrays.fill(dp[i], -1);
+        }
+
+        return check( sum, target, 0 );
+    }
+    int nums[];
+    int dp[][];
+    public int check( int sum, int target, int i){
+        if(i == nums.length){
+            return sum == target ? 1 : 0; 
+        }
+
+        if(dp[i][sum+1000] != -1) return dp[i][sum+1000];
+
+        int add = check( sum + nums[i], target, i+1);
+        int sub = check( sum - nums[i], target, i+1);
+
+        return dp[i][sum+1000] = add + sub;
+        
     }
 }
