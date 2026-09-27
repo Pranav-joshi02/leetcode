@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1014-best-sightseeing-pair](https://github.com/Pranav-joshi02/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1207-unique-number-of-occurrences](https://github.com/Pranav-joshi02/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/1406-stone-game-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Pranav-joshi02/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/Pranav-joshi02/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1014-best-sightseeing-pair](https://github.com/Pranav-joshi02/leetcode/tree/master/1014-best-sightseeing-pair) |
 | [1406-stone-game-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/1406-stone-game-iii) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pranav-joshi02/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
