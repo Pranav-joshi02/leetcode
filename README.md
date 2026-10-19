@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Pranav-joshi02/leetcode/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pranav-joshi02/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Pranav-joshi02/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
