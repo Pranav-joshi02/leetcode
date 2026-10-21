@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/Pranav-joshi02/leetcode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Pranav-joshi02/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pranav-joshi02/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -303,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Pranav-joshi02/leetcode/tree/master/0494-target-sum) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranav-joshi02/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
