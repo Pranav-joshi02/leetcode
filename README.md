@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Pranav-joshi02/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Pranav-joshi02/leetcode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/Pranav-joshi02/leetcode/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Pranav-joshi02/leetcode/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/Pranav-joshi02/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Pranav-joshi02/leetcode/tree/master/0486-predict-the-winner) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Pranav-joshi02/leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Pranav-joshi02/leetcode/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
