@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pranav-joshi02/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Pranav-joshi02/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/Pranav-joshi02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pranav-joshi02/leetcode/tree/master/1854-maximum-population-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-joshi02/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pranav-joshi02/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1109-corporate-flight-bookings](https://github.com/Pranav-joshi02/leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1732-find-the-highest-altitude](https://github.com/Pranav-joshi02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pranav-joshi02/leetcode/tree/master/1854-maximum-population-year) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pranav-joshi02/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Pranav-joshi02/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
