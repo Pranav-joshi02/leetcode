@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Pranav-joshi02/leetcode/tree/master/1854-maximum-population-year) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Pranav-joshi02/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2140-solving-questions-with-brainpower](https://github.com/Pranav-joshi02/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Pranav-joshi02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Pranav-joshi02/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Pranav-joshi02/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Pranav-joshi02/leetcode/tree/master/1854-maximum-population-year) |
+| [1991-find-the-middle-index-in-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Pranav-joshi02/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pranav-joshi02/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Pranav-joshi02/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
