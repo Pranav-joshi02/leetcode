@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Pranav-joshi02/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Pranav-joshi02/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Pranav-joshi02/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Pranav-joshi02/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pranav-joshi02/leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/Pranav-joshi02/leetcode/tree/master/3096-minimum-levels-to-gain-more-points) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Pranav-joshi02/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Pranav-joshi02/leetcode/tree/master/0135-candy) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Pranav-joshi02/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Pranav-joshi02/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pranav-joshi02/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Pranav-joshi02/leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Pranav-joshi02/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Pranav-joshi02/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Pranav-joshi02/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Pranav-joshi02/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Pranav-joshi02/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Pranav-joshi02/leetcode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pranav-joshi02/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Memoization
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Pranav-joshi02/leetcode/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Pranav-joshi02/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pranav-joshi02/leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Pranav-joshi02/leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2485-find-the-pivot-integer](https://github.com/Pranav-joshi02/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Pranav-joshi02/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2848-points-that-intersect-with-cars](https://github.com/Pranav-joshi02/leetcode/tree/master/2848-points-that-intersect-with-cars) |
